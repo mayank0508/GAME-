@@ -1,2 +1,2 @@
 # GAME-
-A normal game
+DEMO GAME
