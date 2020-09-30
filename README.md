@@ -1,2 +1,3 @@
-# GAME-
-DEMO GAME
+# GAME
+Its is a browser game 
+
