@@ -35,6 +35,7 @@ progress[value]::-webkit-progress-value {
   transition: all 0.2s ease-out;
 }
 
+
 progress[value]::-moz-progress-bar {
   background-color: #a927f5;
   transition: all 0.2s ease-out;
