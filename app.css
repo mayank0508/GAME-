@@ -29,6 +29,7 @@ progress[value] {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
 }
 
+
 progress[value]::-webkit-progress-value {
   background-color: #a927f5;
   transition: all 0.2s ease-out;
