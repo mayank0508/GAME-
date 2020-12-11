@@ -40,6 +40,7 @@ progress[value]::-moz-progress-bar {
   transition: all 0.2s ease-out;
 }
 
+
 button {
   font: inherit;
   background: #ff0062;
