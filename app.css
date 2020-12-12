@@ -20,6 +20,7 @@ progress {
   border: 1px solid #a927f5;
 }
 
+
 progress[value]::-webkit-progress-bar,
 progress[value] {
   background-color: #eee;
