@@ -1,4 +1,4 @@
 # GAME
-Its is a browser game.
+Its is a browser game
 
 
